@@ -3,7 +3,13 @@ name = "pix2chocolate-shop"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 dependencies = [
+    "bpy>=5.1.0",
     "nanodjango>=0.16.0",
+]
+
+[dependency-groups]
+dev = [
+    "black>=26.3.1",
 ]
