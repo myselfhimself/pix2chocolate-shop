@@ -2,7 +2,7 @@
 
 A [nanodjango](https://github.com/radiac/nanodjango) pseudo-ecommerce web application to design, preview, order and generate chocolate low-relief chips.
 
-To be presented at the GrafikLabor 2026 conference.
+To be presented at the GrafikLabor 2026 conference :)
 
 ## Architecture
 This webapp embeds a headless Blender3D as library (bpy), a Django+SQL app (with administration and endpoints) and a React order form (soon). 
